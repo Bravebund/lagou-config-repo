@@ -1,0 +1,4 @@
+mysql:
+  url:jdbc:mysql://localhost:3306/lagou?useSSL=false&serverTimezone=UTC
+lagou:
+ message:hello lagou, 100
